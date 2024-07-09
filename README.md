@@ -46,7 +46,7 @@ O Cypress já está configurado como uma dependência no projeto.
 
 Para executar os testes, utilize o seguinte comando:
 
-npm run cypress open
+npm cypress open
 
 Isso abrirá a interface do Cypress, onde você pode selecionar e executar os testes individualmente ou todos de uma vez.
 
