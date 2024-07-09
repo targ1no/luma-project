@@ -25,18 +25,14 @@ Antes de iniciar, verifique se o seu sistema atende aos seguintes requisitos:
 
 Clone o repositório do projeto do GitHub:
 
-\`\`\`bash
 git clone <https://github.com/targ1no/luma-project.git>
 cd <luma-project>
-\`\`\`
 
 ### 2. Instalar dependências
 
 Dentro do diretório do projeto, instale as dependências necessárias usando NPM:
 
-\`\`\`bash
 npm install
-\`\`\`
 
 ## Configuração do Cypress
 
@@ -50,9 +46,7 @@ O Cypress já está configurado como uma dependência no projeto.
 
 Para executar os testes, utilize o seguinte comando:
 
-\`\`\`bash
 npm run cypress open
-\`\`\`
 
 Isso abrirá a interface do Cypress, onde você pode selecionar e executar os testes individualmente ou todos de uma vez.
 
